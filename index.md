@@ -15,4 +15,4 @@ ___
 ### [Important Dates](dates.md)
 ### [Program](program.md)
 ### [Venue](venue.md)
-### [Contancts](contacts.md)
+### [Contacts](contacts.md)
