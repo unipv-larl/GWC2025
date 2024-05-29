@@ -11,7 +11,7 @@ ___
 
 ## Menu
 
-### <a href="https://www.markdownguide.org" target="_blank">Call for Papers</a>
+### [Call for Papers](cfp.md)
 ### [Important Dates](dates.md)
 ### [Program](program.md)
 ### [Venue](venue.md)
