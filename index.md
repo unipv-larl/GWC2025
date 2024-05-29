@@ -11,7 +11,7 @@ ___
 
 ## Menu
 
-### [Call for Papers](http://globalwordnet.org/)
+### [Call for Papers](cfp.md)
 ### [Important Dates](dates.md)
 ### [Program](program.md)
 ### [Venue](venue.md)
