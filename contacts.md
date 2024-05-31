@@ -2,4 +2,4 @@ If you have any questions, need further information, or require assistance, plea
 
 **Email Contact**:
 
-gwc2025pavia@unipv.it
+<a href="mailto:gwc2025pavia@unipv.it" class="email-link">gwc2025pavia@unipv.it</a>
