@@ -16,3 +16,10 @@ ___
 ### [Program](program.md)
 ### [Venue](venue.md)
 ### [Contacts](contacts.md)
+
+
+<p float="left">
+  <img src="loghiGWC/logo1.png" width="100" />
+  <img src="loghiGWC/logo2.png" width="100" /> 
+  <img src="loghiGWC/logo3.png" width="100" />
+</p>
