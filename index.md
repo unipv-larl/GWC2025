@@ -17,4 +17,6 @@ ___
 ### [Venue](venue.md)
 ### [Contacts](contacts.md)
 
+---
+
 <img src="loghiGWC/loghiuniti.png">
