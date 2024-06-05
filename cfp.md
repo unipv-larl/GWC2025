@@ -66,7 +66,7 @@ To enhance replicability and transparency, authors are encouraged to **share the
 
 Paper submissions must adhere to the **official ACL style templates** available [here](https://github.com/acl-org/acl-style-files) for LaTeX and Word. Please also follow the general paper formatting guidelines established by the “*ACL” conferences available [here](https://acl-org.github.io/ACLPUB/formatting.html). Authors should not modify these style-sheet files or use templates designed for other conferences.
  
-Papers must be submitted via the **EasyChair website**: https://easychair.org/conferences/?conf=gwc2025 
+Papers must be submitted via the **EasyChair website**: <https://easychair.org/conferences/?conf=gwc2025>
 
 ## Important Dates
 - **Abstract Submission Deadline**: October 7, 2024 
