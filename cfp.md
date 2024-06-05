@@ -21,16 +21,19 @@ We invite submissions of original research contributions addressing, though not 
 - Wordnets and other modalities
 - Wordnets and other theoretical frameworks for modelling lexical semantics
 - Other lexicographical and lexicological questions pertaining to wordnet-style meaning representation
+  
 ### 2. Architecture of lexical databases
 - Language independent and language dependent components
 - Integration of multi-wordnets in research infrastructures (e.g., CLARIN, ELG, ELRA, etc.) 
 - Wordnets and Linked Open Data (LOD)
+  
 ### 3. Tools and methods for wordnet development
 - User and data entry interfaces
 - Methods for constructing, extending, and enriching wordnets
 - Methods for linking wordnets to other lexical and semantic resources
 - Methods for leveraging existing wordnets and semantic networks with large language models
 - Wordnets for under-resourced languages
+  
 ### 4. Applications of wordnet
 - Word sense disambiguation
 - Text generation
@@ -44,6 +47,7 @@ We invite submissions of original research contributions addressing, though not 
 - Psycholinguistic applications
 - Embeddings and pretrained language models
 - Probing large language models
+  
 ### 5. Standardization, distribution and availability of wordnets and wordnet tools
 - Best practices for wordnet maintenance, standardization, and distribution
 - Evaluation metrics for wordnet tools and resources
