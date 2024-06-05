@@ -52,8 +52,7 @@ We invite submissions of original research contributions addressing, though not 
 - APIs and other web services for accessing wordnets
 - Strategies for community involvement in wordnet standardization
 
-## 
-Submissions should fall into one of the following categories (page limits exclude references):
+### Submissions should fall into one of the following categories (page limits exclude references):
 - **Long papers**: 8 pages max, 30 minute presentation
 - **Short papers**: 5 pages max, 15 minute presentation
 - **Project reports**: 5 pages max, 10 minute presentation
