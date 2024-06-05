@@ -1,6 +1,6 @@
 # Important dates 🗓
 
-- **Abstract Submission Deadline**: October 7, 2024 
+- **Paper Submission Deadline**: October 7, 2024 
 - **Acceptance Notification**: November 18, 2024 
 - **Camera-Ready Submission Deadline**: January 10, 2025
 - **Conference Dates**: January 27-31, 2025
