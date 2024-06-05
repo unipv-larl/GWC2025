@@ -1,4 +1,4 @@
-# Dates 🗓
+# Important dates 🗓
 
 - **Abstract Submission Deadline**: October 7, 2024 
 - **Acceptance Notification**: November 18, 2024 
