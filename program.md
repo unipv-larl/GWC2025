@@ -1,3 +1,3 @@
 # Coming soon! 📋
 
-[Home](https://unipv-larl.github.io/GWC2025/)
+🏠 [Home](https://unipv-larl.github.io/GWC2025/)
