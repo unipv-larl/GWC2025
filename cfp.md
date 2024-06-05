@@ -44,7 +44,7 @@ We invite submissions of original research contributions addressing, though not 
 - Psycholinguistic applications
 - Embeddings and pretrained language models
 - Probing large language models
-### 5. Standardization, distribution and availability of wordnets and wordnet tools.
+### 5. Standardization, distribution and availability of wordnets and wordnet tools
 - Best practices for wordnet maintenance, standardization, and distribution
 - Evaluation metrics for wordnet tools and resources
 - Interoperability across wordnets and wordnet tools
@@ -61,7 +61,7 @@ Submissions should fall into one of the following categories (page limits exclud
 
 Submissions must be **anonymized**, and any identifying information must be removed. Authors should indicate their preferred submission category; however, the final category of acceptance may be adjusted by the organising and scientific committees (e.g., if need be, a long paper submission may be accepted as a short paper).
 
-To enhance replicability and transparency, authors are encouraged to **share the data and code** used in their research, whenever possible in an anonymized form. We recommend exploring data repositories that support anonymization techniques and open-source code hosting platforms like GitHub (https://anonymous.4open.science/).
+To enhance replicability and transparency, authors are encouraged to **share the data and code** used in their research, whenever possible in an anonymized form. We recommend exploring data repositories that support anonymization techniques and open-source code hosting platforms like [GitHub](https://anonymous.4open.science/).
 
 **Camera-ready and final papers must be submitted electronically in PDF format only.**
 
