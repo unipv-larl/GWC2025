@@ -1,4 +1,9 @@
 # Call for papers 👩🏼‍💻
+
+### 13th International Global Wordnet Conference
+#### Pavia, Italy
+#### January 27-31, 2025
+
  
 The Global Wordnet Association is delighted to announce the 13th International Global Wordnet Conference (GWC2025), to be held in Pavia (Italy) from 27 to 31 January, 2025. The GWC2025 conference will be hosted by the Department of Humanities, at the University of Pavia, under the auspices of the Italian Association of Computational Linguistics (AILC), Almo Collegio Borromeo, Collegio Ghislieri, and NTT Data.
  
