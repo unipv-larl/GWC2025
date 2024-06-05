@@ -15,6 +15,7 @@ ___
 ### [Important Dates](dates.md)
 ### [Program](program.md)
 ### [Venue](venue.md)
+### [Travel information](travel.md)
 ### [Contacts](contacts.md)
 
 ---
