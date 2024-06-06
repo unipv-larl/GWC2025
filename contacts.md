@@ -4,7 +4,7 @@ If you have any questions, need further information, or require assistance, plea
 
 <a href="mailto:gwc2025pavia@unipv.it" class="email-link">gwc2025pavia@unipv.it</a>
 
-
+---
 **Local organizing chairs**
 
 Chiara Zanchi <a href="mailto:chiara.zanchi@unipv.it" class="email-link">chiara.zanchi@unipv.it</a>
@@ -21,5 +21,5 @@ Stefano Rocchi <a href="mailto:stefano.rocchi@unipv.it" class="email-link">stefa
 
 Silvia Zampetta <a href="mailto:silvia.zampetta01@universitadipavia.it" class="email-link">silvia.zampetta01@universitadipavia.it</a>
 
-
+---
 🏠 [Home](https://unipv-larl.github.io/GWC2025/)
