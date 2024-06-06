@@ -1,4 +1,4 @@
-# HOUSING POSSIBILITIES 🏠
+# Housing possibilities 🏠
 
 ## Hotels
 Below you will find a list of hotels in the town center. If you decide to reserve a hotel room, we recommend that you procede as soon as possible.
