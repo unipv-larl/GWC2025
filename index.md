@@ -16,6 +16,7 @@ ___
 ### [Program](program.md)
 ### [Venue](venue.md)
 ### [Travel information](travel.md)
+### [Housing possibilities](housing.md)
 ### [Contacts](contacts.md)
 
 ---
