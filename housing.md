@@ -17,3 +17,5 @@ You can also find some cheap apartments and studios on [Airbnb](https://www.airb
 ## University dorms
 You can try to book a room in one of the university dorms. In that case, we recommend that you make your arrangements before mid-June at the latest. A full list of university dorms can be found here:
 [University Dorms EDISU Pavia](https://www.edisu.pv.it/index.php?page=collegi-e-residenze-universitarie)
+
+🏠 [Home](https://unipv-larl.github.io/GWC2025/)
