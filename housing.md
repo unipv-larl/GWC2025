@@ -18,4 +18,6 @@ You can also find some cheap apartments and studios on [Airbnb](https://www.airb
 You can try to book a room in one of the university dorms. A full list of university dorms can be found here:
 [University Dorms EDISU Pavia](https://www.edisu.pv.it/index.php?page=collegi-e-residenze-universitarie)
 
+---
+
 🏠 [Home](https://unipv-larl.github.io/GWC2025/)
