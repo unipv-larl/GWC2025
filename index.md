@@ -21,4 +21,4 @@ ___
 
 ---
 
-<img src="loghiGWC/loghiuniti.png">
+<img src="loghiGWC/loghiuniti2.png">
