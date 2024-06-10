@@ -22,4 +22,19 @@ Stefano Rocchi <a href="mailto:stefano.rocchi@unipv.it" class="email-link">stefa
 Silvia Zampetta <a href="mailto:silvia.zampetta01@universitadipavia.it" class="email-link">silvia.zampetta01@universitadipavia.it</a>
 
 ---
+
+**Student Helpers**
+
+Annachiara Clementelli
+
+Beatrice Marchesi
+
+Lorenzo Reina
+
+<br>
+<br>
+<br>
+
+---
+
 🏠 [Home](https://unipv-larl.github.io/GWC2025/)
