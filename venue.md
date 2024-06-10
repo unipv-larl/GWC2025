@@ -14,7 +14,19 @@ There are two main buildings, Palazzo Centrale (Figure 1) and Palazzo San Tommas
 
 **Figure 2 - Palazzo San Tommaso**
 
+<img src="loghiGWC/Figura 3 - venue.png">
 
+**Figure 3 - Distance between Palazzo Centrale and Palazzo San Tommaso**
+
+Pavia (Figure 4) is a small, attractive university town, with several university colleges, a vibrant student life, and several historical landmarks, including the Romanesque churches of San Michele Maggiore (Figure 5) and San Pietro in Ciel d’Oro. The University, officially established in 1361, is among the oldest ones in Europe.
+
+<img src="https://giteinlombardia.it/wp-content/uploads/2021/01/copertina-4.jpg" alt="Pavia" title="Figure 3 - Pavia from above">
+
+**Figure 3 - Pavia from above**
+
+<img src="https://www.vivipavia.it/contents/instance10/files/photo/11801_170_sanmichele.jpg" alt="Basilica di San Michele Maggiore" title="Figure 4 - Basilica di San Michele Maggiore">
+
+**Figure 4 - Basilica di San Michele Maggiore**
 
 
 🏠 [Home](https://unipv-larl.github.io/GWC2025/)
