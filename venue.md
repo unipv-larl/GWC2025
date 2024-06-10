@@ -51,6 +51,13 @@ Pavia (Figure 6) is a small, attractive university town, with several university
 <img src="sanpietro.jpg" alt="Basilica di San Michele Maggiore" title="Figure 8 - Basilica di San Pietro in Ciel D'Oro">
 
 **Figure 8 - Basilica di San Pietro in Ciel D'Oro**
+
+Just a 10-minute train ride away is the famous Certosa di Pavia (Figure 9), a monastery built in 1396–1495 and still one of the largest monasteries in Italy. 
+
+<img src="certosa.jpg" alt="Certosa di Pavia" title="Figure 9 - Certosa di Pavia">
+
+**Figure 9 - Certosa di Pavia**
+
 <br>
 <br>
 <br>
