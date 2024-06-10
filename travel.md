@@ -20,4 +20,10 @@ Genova Airport (Cristoforo Colombo) is another possibility.
 - Buses (approximately 30 minutes) to Genova Brignole Station, then trains to Pavia: tickets and schedule [here](https://www.trenitalia.com)
 
 ---
+
+<img src="airports.jpg" alt="Milan international airports" title="Milan international airports">
+
+**Milan international airports**
+
+
 🏠 [Home](https://unipv-larl.github.io/GWC2025/)
