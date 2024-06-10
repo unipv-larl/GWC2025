@@ -36,17 +36,21 @@ These buildings house numerous lecture halls, ranging from smaller ones to large
 
 <br>
 
-Pavia (Figure 6) is a small, attractive university town, with several university colleges, a vibrant student life, and several historical landmarks, including the Romanesque churches of San Michele Maggiore (Figure 7) and San Pietro in Ciel d’Oro. The University, officially established in 1361, is among the oldest ones in Europe.
+Pavia (Figure 6) is a small, attractive university town, with several university colleges, a vibrant student life, and several historical landmarks, including the Romanesque churches of San Michele Maggiore (Figure 7) and San Pietro in Ciel d’Oro. Over the centuries, the former hosted many sumptuous ceremonies and coronations, including the coronation Frederick Barbarossa (1155), while the latter houses the tombs of Augustine of Hippo, Boethius, and Liutprand, King of the Lombards. The University, officially established in 1361, is among the oldest ones in Europe.
 
-<img src="https://giteinlombardia.it/wp-content/uploads/2021/01/copertina-4.jpg" alt="Pavia" title="Figure 3 - Pavia from above">
+<img src="https://giteinlombardia.it/wp-content/uploads/2021/01/copertina-4.jpg" alt="Pavia" title="Figure 6 - Pavia from above">
 
 **Figure 6 - Pavia from above**
 
 <br>
 
-<img src="https://www.vivipavia.it/contents/instance10/files/photo/11801_170_sanmichele.jpg" alt="Basilica di San Michele Maggiore" title="Figure 4 - Basilica di San Michele Maggiore">
+<img src="https://www.vivipavia.it/contents/instance10/files/photo/11801_170_sanmichele.jpg" alt="Basilica di San Michele Maggiore" title="Figure 7 - Basilica di San Michele Maggiore">
 
 **Figure 7 - Basilica di San Michele Maggiore**
+
+<img src="sanpietro.jpg" alt="Basilica di San Michele Maggiore" title="Figure 8 - Basilica di San Pietro in Ciel D'Oro">
+
+**Figure 8 - Basilica di San Pietro in Ciel D'Oro**
 <br>
 <br>
 <br>
