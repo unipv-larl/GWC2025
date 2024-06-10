@@ -21,4 +21,5 @@ ___
 
 ---
 
-<img src="loghiGWC/loghiuniti2.png">
+<img src="loghiGWC/loghiuniti3.png">
+
