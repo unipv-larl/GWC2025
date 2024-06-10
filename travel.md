@@ -21,9 +21,5 @@ Genova Airport (Cristoforo Colombo) is another possibility.
 
 ---
 
-<img src="airports.jpg" alt="Milan international airports" title="Milan international airports">
-
-**Milan international airports**
-
 
 🏠 [Home](https://unipv-larl.github.io/GWC2025/)
