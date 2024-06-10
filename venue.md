@@ -1,4 +1,4 @@
-# Coming soon! 📍
+# VENUE📍
 
 The conference will be held at the Department of Humanities, University of Pavia. 
 
@@ -13,7 +13,6 @@ There are two main buildings, Palazzo Centrale (Figure 1) and Palazzo San Tommas
 <img src="https://giurisprudenza.dip.unipv.it/sites/dip03/files/styles/max_2600x2600/public/2021-12/San%20Tommaso%20-%20Cortile%20interno.jpg?itok=QKZlP-MZ" alt="Università degli Studi di Pavia, Palazzo San Tommaso" title="Figure 2 - Palazzo San Tommaso">
 
 **Figure 2 - Palazzo San Tommaso**
-
 
 
 
