@@ -51,5 +51,5 @@ Pavia (Figure 6) is a small, attractive university town, with several university
 <br>
 <br>
 
-
+---
 🏠 [Home](https://unipv-larl.github.io/GWC2025/)
