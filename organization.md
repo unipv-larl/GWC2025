@@ -5,13 +5,13 @@
 - Francis Bond, Palacký University
 
 ## Local organizing chairs
-- Chiara Zanchi chiara.zanchi@unipv.it
-- Erica Biagetti erica.biagetti@unipv.it
-- Luca Brigada Villa luca.brigadavilla@unibg.it
-- Claudia Roberta Combei claudiaroberta.combei@unipv.it
-- Tullio Facchetti tullfacc@unipv.it
-- Stefano Rocchi stefano.rocchi@unipv.it
-- Silvia Zampetta silvia.zampetta01@universitadipavia.it
+- Chiara Zanchi 
+- Erica Biagetti 
+- Luca Brigada Villa 
+- Claudia Roberta Combei 
+- Tullio Facchetti 
+- Stefano Rocchi 
+- Silvia Zampetta 
 
 ## Program chairs
 To be announced soon!
