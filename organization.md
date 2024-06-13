@@ -15,3 +15,8 @@
 
 ## Program chairs
 To be announced soon!
+
+## Sponsors
+- [NTT Data](https://it.nttdata.com/)
+- [Fondazione Ghislieri](https://www.ghislieri.it/)
+- [Almo Collegio Borromeo](https://www.collegioborromeo.it/it/)
