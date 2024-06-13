@@ -1,8 +1,8 @@
 # Organization 
 
 ## General chairs
-- German Rigau, HiTZ Center, University of the Basque Country UPV/EHU
-- Francis Bond, Palacký University
+- German Rigau (HiTZ Center, University of the Basque Country UPV/EHU)
+- Francis Bond (Palacký University)
 
 ## Local organizing chairs
 - Chiara Zanchi 
