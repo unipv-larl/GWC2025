@@ -1,4 +1,4 @@
-# Organization 
+# Organization 📐
 
 ## General chairs
 - German Rigau (HiTZ Center, University of the Basque Country UPV/EHU)
