@@ -14,6 +14,7 @@ ___
 ### [Call for Papers](cfp.md)
 ### [Important Dates](dates.md)
 ### [Program](program.md)
+### [Organization](organization.md)
 ### [Venue](venue.md)
 ### [Travel information](travel.md)
 ### [Housing possibilities](housing.md)
