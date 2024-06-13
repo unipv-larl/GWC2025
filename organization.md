@@ -11,12 +11,19 @@
 - Claudia Roberta Combei 
 - Tullio Facchetti 
 - Stefano Rocchi 
-- Silvia Zampetta 
+- Silvia Zampetta
+
+#### Student helpers
+
+- Annachiara Clementelli
+- Beatrice Marchesi
+- Lorenzo Reina
 
 ## Program chairs
 To be announced soon!
 
 ## Sponsors
-- [NTT Data](https://it.nttdata.com/)
-- [Fondazione Ghislieri](https://www.ghislieri.it/)
 - [Almo Collegio Borromeo](https://www.collegioborromeo.it/it/)
+- [Fondazione Ghislieri](https://www.ghislieri.it/)
+- [NTT Data](https://it.nttdata.com/)
+
