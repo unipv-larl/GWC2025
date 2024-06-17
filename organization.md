@@ -9,7 +9,7 @@
 - Erica Biagetti 
 - Luca Brigada Villa 
 - Claudia Roberta Combei 
-- Tullio Facchetti 
+- Tullio Facchinetti 
 - Stefano Rocchi 
 - Silvia Zampetta
 
