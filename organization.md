@@ -15,6 +15,7 @@
 
 #### Student helpers
 
+- Eleonora Carmen Canneto
 - Annachiara Clementelli
 - Beatrice Marchesi
 - Lorenzo Reina
