@@ -7,7 +7,14 @@ Beside the call for papers and important dates, in this website you will find in
 
 We are looking forward to seeing you in Pavia!
 
-___
+---
+**The [call for papers](cfp.md) is out!**
+
+Deadline: October 7, 2024
+
+There are two travel scholarships of €300 each and two fully funded rooms available at [Collegio Ghislieri](https://www.ghislieri.it/). The application procedure for the scholarships will soon be announced through the conference channels.
+
+--- 
 
 ## Menu
 
