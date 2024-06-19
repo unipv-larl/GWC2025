@@ -28,6 +28,7 @@ There are two travel scholarships of €300 each and two fully funded rooms avai
 ### [Venue](venue.md)
 ### [Travel information](travel.md)
 ### [Housing possibilities](housing.md)
+### [Schlarships](scholarship.md)
 ### [Contacts](contacts.md)
 
 ---
