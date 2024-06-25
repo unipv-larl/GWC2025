@@ -6,6 +6,8 @@
 
  
 The Global Wordnet Association is delighted to announce the 13th International Global Wordnet Conference (GWC2025), to be held in Pavia (Italy) from 27 to 31 January, 2025. The GWC2025 conference will be hosted by the Department of Humanities, at the University of Pavia.
+
+The conference will feature the participation of three keynote speakers: **Rada Mihalcea** (Unversity of Michigan), **Marco Passarotti** (Università Cattolica del Sacro Cuore Milano), and **Piek Vossen** (Vrije Universiteit Amsterdam).
  
 We invite submissions of original research contributions addressing, though not limited to, the topics listed below. **Presentations of new WordNets** will be assigned to a dedicated panel. Additionally, proposals for tutorials and demonstrations or panel discussions on **Wordnet for ancient languages** are encouraged.
 
