@@ -17,7 +17,9 @@ We are looking forward to seeing you in Pavia!
 ## Scholarships ✈️
 There are two travel scholarships of €300 each and two fully funded rooms available at [Collegio Ghislieri](https://www.ghislieri.it/). The application procedure will soon be announced through the conference channels.
 
-When submitting their paper via [EasyChair](https://easychair.org/conferences/?conf=gwc2025), authors can apply for scholarships by by checking the box 'I wish to apply for a travel scholarship and a fully funded room' and providing their age. The board will decide who to award the scholarships to based on the following criteria: Job position (30 points), Country of origin (30 points), Score given by reviewers to the paper (30 points), Age (10 points). 
+When submitting their paper via [EasyChair](https://easychair.org/conferences/?conf=gwc2025), authors can apply for scholarships by by checking the box 'I wish to apply for a travel scholarship and a fully funded room' and providing their age. 
+
+The board will decide who to award the scholarships to based on the following criteria: Job position (30 points), Country of origin (30 points), Score given by reviewers to the paper (30 points), Age (10 points). 
 
 --- 
 
