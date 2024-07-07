@@ -17,6 +17,8 @@ We are looking forward to seeing you in Pavia!
 ## Scholarships ✈️
 There are two travel scholarships of €300 each and two fully funded rooms available at [Collegio Ghislieri](https://www.ghislieri.it/). The application procedure will soon be announced through the conference channels.
 
+Authors can apply for scholarships through the submission form when they submit their paper via EasyChair. The board will decide who to award the scholarships to based on the following criteria: Job position (30 points), Country of origin (30 points), Score given by reviewers to the paper (30 points), Age (10 points). 
+
 --- 
 
 ## Menu
