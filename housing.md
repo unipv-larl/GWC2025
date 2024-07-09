@@ -15,7 +15,7 @@ You can also find some cheap apartments and studios on [Airbnb](https://www.airb
 [Ca' di Sogn](https://www.lacadisogn.com/) offers apartments of various sizes in the city centre.
 
 ## University dorms
-Four university dorms (collegi) have made 8 rooms available for conference participants, distributed as follows:
+Four university dorms (*collegi*) have made 8 rooms available for conference participants, distributed as follows:
 
 - [Collegio Cairoli](https://www.collegiocairoli.it/it/): 1 double room with private bathroom;
 - [Collegio Castiglioni](http://www.collegiocastiglionibrugnatelli.it/): 2 single rooms + 2 double rooms, with shared bathroom;
