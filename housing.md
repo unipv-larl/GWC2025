@@ -15,8 +15,16 @@ You can also find some cheap apartments and studios on [Airbnb](https://www.airb
 [Ca' di Sogn](https://www.lacadisogn.com/) offers apartments of various sizes in the city centre.
 
 ## University dorms
-You can try to book a room in one of the university dorms. A full list of university dorms can be found here:
-[University Dorms EDISU Pavia](https://www.edisu.pv.it/index.php?page=collegi-e-residenze-universitarie)
+Four university dorms (collegi) have made 8 rooms available for conference participants, distributed as follows:
+
+- [Collegio Cairoli](https://www.collegiocairoli.it/it/): 1 double room with private bathroom;
+- [Collegio Castiglioni](http://www.collegiocastiglionibrugnatelli.it/): 2 single rooms + 2 double rooms, with shared bathroom;
+- [Collegio Fraccaro](https://www.collegidipavia.it/collegio/7/collegio-plinio-fraccaro): 2 single rooms with private bathroom;
+- [Collegio Valla](https://valla.edisu.pv.it/): 1 single room, with shared bathroom.
+
+The cost per person per night is €45.00 for a single room and €36.00 for a double room. The rate includes breakfast via vending machine (beverages and snacks) and is indicated net of 10% VAT. 
+
+Participants who wish to book one of these rooms can notify the organizing committee by sending an email to [gwc2025@unipv.it](gwc2025@unipv.it), indicating their preferences and using **'Room in university dorm'** as the subject of the email. The organizing committee will take care of booking the room in question or suggest another one if the preferred room is no longer available.
 
 ---
 
