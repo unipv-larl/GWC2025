@@ -40,13 +40,13 @@ The board will decide who to award the scholarships to based on the following cr
 For updates you can also follow our social profiles:
 <br>
 
-**Instagram**: gwc2025pavia - https://www.instagram.com/gwc2025pavia?igsh=MWZxY21raDJtam96cg==
+**Instagram**: gwc2025pavia - (https://www.instagram.com/gwc2025pavia?igsh=MWZxY21raDJtam96cg==)
 <br>
 
-**X**: gwc2025pavia - https://x.com/gwc2025pavia
+**X**: gwc2025pavia - (https://x.com/gwc2025pavia)
 <br>
 
-**Telegram**: https://t.me/gwc2025pavia
+**Telegram**: (https://t.me/gwc2025pavia)
 <br>
 
 ---
