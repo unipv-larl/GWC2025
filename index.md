@@ -10,7 +10,7 @@ We are looking forward to seeing you in Pavia!
 ---
 ## The [call for papers](cfp.md) is out! 
 
-📆 Deadline: October 7, 2024
+**❗️❗️ New Paper Submission Deadline: October 14, 2024**
 
 ---
 
