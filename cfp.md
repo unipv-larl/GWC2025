@@ -73,7 +73,7 @@ Paper submissions must adhere to the **official ACL style templates** available 
 Papers must be submitted via the **EasyChair website**: <https://easychair.org/conferences/?conf=gwc2025>
 
 ## Important Dates
-- **Paper Submission Deadline**: October 7, 2024
+- **❗️❗️ New Paper Submission Deadline: October 14, 2024**
 - **Notification of Acceptance**: November 18, 2024 
 - **Camera-Ready Submission Deadline**: January 10, 2025
 - **Conference Dates**: January 27-31, 2025
