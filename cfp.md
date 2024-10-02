@@ -79,5 +79,10 @@ Papers must be submitted via the **EasyChair website**: <https://easychair.org/c
 - **Conference Dates**: January 27-31, 2025
 - **Final Paper Submission for Proceedings**: February 28, 2025
 
+<br>
+
+The deadline timezone is [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
+
 ---
+
 🏠 [Home](https://unipv-larl.github.io/GWC2025/)
