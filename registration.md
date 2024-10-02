@@ -7,9 +7,10 @@
 ---
 
 The **registration deadline** is one week before the conference. However, please note the following:
+
 After January 10th, the registration fee will be increased, and this higher fee will apply until one week before the conference.
 
-
+---
 Registrations will open soon, as the Call for Papers (CfP) is currently ongoing.
 
 ---
