@@ -32,7 +32,7 @@ The board will decide who to award the scholarships to based on the following cr
 ### [Venue](venue.md)
 ### [Travel information](travel.md)
 ### [Housing possibilities](housing.md)
-### [Schlarships](scholarship.md)
+### [Scholarships](scholarship.md)
 ### [Contacts](contacts.md)
 
 ---
