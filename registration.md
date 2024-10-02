@@ -1,18 +1,16 @@
 # Registration Information 📨
 
-**EARLY BIRD** - from November 18th to January 10th
+- **Registration opens**: November 18th
+- **Registration closes**: January 20th
+- **Early-bird registration**: from November 18th to December 20th
 
-- **200 euros** for faculty members.
-- **100 euros** for students or non-faculty members.
-
----
-
-The **registration deadline** is one week before the conference. However, please note the following:
-
-After January 10th, the registration fee will be increased, and this higher fee will apply until one week before the conference.
-
----
-Registrations will open soon, as the Call for Papers (CfP) is currently ongoing.
+## Registration fee (early bird)
+- **Regular fee:**
+  - from November 18th to December 10th: 200€
+  - from December 10th to January 20th: 250€ 
+- **Reduced fee (for students and scholars coming from developnig countries):** 
+  - from November 18th to December 10th: 100€
+  - from December 10th to January 20th: 150€ 
 
 ---
 
