@@ -8,7 +8,7 @@
 - **Regular fee:**
   - from November 18th to December 10th: 200€
   - from December 10th to January 20th: 250€ 
-- **Reduced fee (for students and scholars coming from developnig countries):** 
+- **Reduced fee (for students and scholars coming from developing countries):** 
   - from November 18th to December 10th: 100€
   - from December 10th to January 20th: 150€ 
 
