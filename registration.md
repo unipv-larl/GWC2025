@@ -1,6 +1,7 @@
 # Registration Information 📨
 
-**EARLY BIRD** - November 18 to January 10
+**EARLY BIRD** - from November 18th to January 10th
+
 - **200 euros** for faculty members.
 - **100 euros** for students or non-faculty members.
 
