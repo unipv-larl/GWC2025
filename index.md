@@ -27,7 +27,7 @@ The board will decide who to award the scholarships to based on the following cr
 
 ### [Call for Papers](cfp.md)
 ### [Important Dates](dates.md)
-### [Registration.md]
+### [Registration](registration.md)
 ### [Program](program.md)
 ### [Organization](organization.md)
 ### [Venue](venue.md)
