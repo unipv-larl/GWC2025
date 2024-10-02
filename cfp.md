@@ -78,10 +78,10 @@ Papers must be submitted via the **EasyChair website**: <https://easychair.org/c
 - **Camera-Ready Submission Deadline**: January 10, 2025
 - **Conference Dates**: January 27-31, 2025
 - **Final Paper Submission for Proceedings**: February 28, 2025
-
 <br>
 
-The deadline timezone is [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
+
+⏰ The *deadline timezone* is [Anywhere on Earth](https://time.is/Anywhere_on_Earth)
 
 ---
 
