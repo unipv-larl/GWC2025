@@ -21,11 +21,15 @@
 - Lorenzo Reina
 
 ## Program chairs
-To be updated and expanded!
 
+- Verginica	Barbu Mititelu (Romanian Academy Research Institute for Artificial Intelligence)
+- Erica Biagetti (University of Pavia)
 - Francis Bond (Palacký University)
+- Luca Brigada Villa (University of Pavia)
 - Paul Buitelaar (University of Galway)
+- Claudia Roberta Combei (University of Pavia)
 - Valeria de Paiva (Samsung Research America and University of Birmingham)
+- Tullio Facchinetti (University of Pavia)
 - Christiane Fellbaum (Princeton University9
 - Greta Franzini (Eurac Research - Institute of Applied Linguistics)
 - Riccardo Ginevra (UCSC Milan)
@@ -44,9 +48,11 @@ To be updated and expanded!
 - Maciej Piasecki (Wroclaw University of Science and Technology)
 - Alexandre Rademaker (IBM Research and EMAp/FGV)
 - German Rigau (HiTZ Center, University of the Basque Country UPV/EHU)
+- Stefano Rocchi (University of Pavia)
 - Rachele Sprugnoli	(University of Parma)
 - Fabio Tamburini (University of Bologna)
 - Piek Vossen	(Vrije Universiteit Amsterdam)
+- Chiara Zanchi (University of Pavia)
 
 ## Sponsors
 - [Almo Collegio Borromeo](https://www.collegioborromeo.it/it/)
