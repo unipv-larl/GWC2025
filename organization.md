@@ -52,6 +52,7 @@
 - Rachele Sprugnoli	(University of Parma)
 - Fabio Tamburini (University of Bologna)
 - Piek Vossen	(Vrije Universiteit Amsterdam)
+- Silvia Zampetta (University of Pavia)
 - Chiara Zanchi (University of Pavia)
 
 ## Sponsors
