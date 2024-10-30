@@ -51,7 +51,7 @@ For updates you can also follow our social profiles:
 
 ---
 
-<img src="loghiGWC/loghiverticali7.png">
+<img src="loghiGWC/loghiuniti5.png">
 
 
 
