@@ -20,6 +20,10 @@
 - Beatrice Marchesi
 - Lorenzo Reina
 
+## Organizing Secretariat
+
+- Marta Daffara - [Pragma Congressi](https://www.pragmacongressi.it/)
+
 ## Program chairs
 
 - Verginica	Barbu Mititelu (Romanian Academy Research Institute for Artificial Intelligence)
