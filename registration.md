@@ -12,7 +12,7 @@
   - from November 25th to December 23rd: 100€
   - from December 24th to January 20th: 150€
 
-All dates and times are intended anywhere on earth.
+All dates and times are intended [Anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
 ### Registration procedure
 
