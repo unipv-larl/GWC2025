@@ -1,16 +1,18 @@
 # Registration Information 📨
 
-- **Registration opens**: November 18th
-- **Registration closes**: January 20th
-- **Early-bird registration**: from November 18th to December 31st
+- **Registration opens**: November 25th
+- **Registration closes**: January 20th at 00:00
+- **Early-bird registration**: from November 25th to December 23rd at 00:00
 
 ### Registration fee 
 - **Regular fee:**
-  - from November 18th to December 31st: 200€
-  - from December 31st to January 20th: 250€ 
+  - from November 25th to December 23rd: 200€
+  - from December 24th to January 20th: 250€ 
 - **Reduced fee (for students and scholars coming from developing countries):** 
-  - from November 18th to December 31st: 100€
-  - from December 31st to January 20th: 140€ 
+  - from November 25th to December 23rd: 100€
+  - from December 24th to January 20th: 150€
+
+All dates and times are intended anywhere on earth.
 
 ### Registration procedure
 
