@@ -18,7 +18,7 @@ Registration fee includes: proceedings (electronic & ISBN), welcome cocktail Jan
 
 ## ✅ Registration procedure
 
-To register to the GWC2025, please fill out the registration form at the following link: [https://form.jotform.com/243143979670365](https://form.jotform.com/243143979670365)
+To register to the GWC2025, please fill out the **registration form** at the following link: [https://form.jotform.com/243143979670365](https://form.jotform.com/243143979670365)
 
 Registration is confirmed only upon payment receipt. 
 
