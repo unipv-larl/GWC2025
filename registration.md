@@ -28,9 +28,9 @@ All refund/cancellation requests must be received by email to [marta.daffara@pra
 
 There will be an administrative fee of 25 € deducted from each refund.
 
-## 📩 Invitation letters 
+## 📩 Invitation letters for visa application
 
-Participants who need a **visa** to enter Italy may request an invitation letter by completing the form available at this link: [https://form.jotform.com/243261524683356](https://form.jotform.com/243261524683356). 
+Participants who need a visa to enter Italy may request an invitation letter by completing the form available at this link: [https://form.jotform.com/243261524683356](https://form.jotform.com/243261524683356). 
 
 It is the conference policy to only issue a letter of invitation to Speakers, Authors, Committee Members, and Attendees who have completed their registration and paid the conference fee.
 
