@@ -26,7 +26,7 @@ Registration is confirmed only upon payment receipt.
 
 All refund/cancellation requests must be received by email to [marta.daffara@pragmacongressi.it](marta.daffara@pragmacongressi.it) **before January 13, 2025**. There will be an administrative fee of 25 € deducted from each refund.
 
-## Invitation letters 
+## 📩 Invitation letters 
 
 Participants who need a **visa** to enter Italy may request an invitation letter by completing the form available at this link: [https://form.jotform.com/243261524683356](https://form.jotform.com/243261524683356). 
 
