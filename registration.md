@@ -24,7 +24,9 @@ Registration is confirmed only upon payment receipt.
 
 ## Cancellation policy
 
-All refund/cancellation requests must be received by email to [marta.daffara@pragmacongressi.it](marta.daffara@pragmacongressi.it) **before January 13, 2025**. There will be an administrative fee of 25 € deducted from each refund.
+All refund/cancellation requests must be received by email to [marta.daffara@pragmacongressi.it](marta.daffara@pragmacongressi.it) **before January 13, 2025**. 
+
+There will be an administrative fee of 25 € deducted from each refund.
 
 ## 📩 Invitation letters 
 
