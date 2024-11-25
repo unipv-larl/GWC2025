@@ -16,15 +16,15 @@ All dates and times are intended [Anywhere on Earth](https://time.is/Anywhere_on
 
 Registration fee includes: proceedings (electronic & ISBN), welcome cocktail January 28th at Pavia city hall, lunches, coffee breaks, walking tour of Pavia center, teach-in on January 27th.
 
-### Cancellation policy
-
-All refund/cancellation requests must be received by email to [marta.daffara@pragmacongressi.it](marta.daffara@pragmacongressi.it) before January 13, 2025. There will be an administrative fee of 25 € deducted from each refund.
-
 ## ✅ Registration procedure
 
 To register to the GWC2025, please fill out the registration form at the following link: [https://form.jotform.com/243143979670365](https://form.jotform.com/243143979670365)
 
 Registration is confirmed only upon payment receipt. 
+
+## Cancellation policy
+
+All refund/cancellation requests must be received by email to [marta.daffara@pragmacongressi.it](marta.daffara@pragmacongressi.it) before January 13, 2025. There will be an administrative fee of 25 € deducted from each refund.
 
 ---
 
