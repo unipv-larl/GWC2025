@@ -18,13 +18,21 @@ Registration fee includes: proceedings (electronic & ISBN), welcome cocktail Jan
 
 ## ✅ Registration procedure
 
-To register to the GWC2025, please fill out the **registration form** at the following link: [https://form.jotform.com/243143979670365](https://form.jotform.com/243143979670365)
+To register to the GWC2025, please complete the **registration form** at this link: [https://form.jotform.com/243143979670365](https://form.jotform.com/243143979670365)
 
 Registration is confirmed only upon payment receipt. 
 
 ## Cancellation policy
 
-All refund/cancellation requests must be received by email to [marta.daffara@pragmacongressi.it](marta.daffara@pragmacongressi.it) before January 13, 2025. There will be an administrative fee of 25 € deducted from each refund.
+All refund/cancellation requests must be received by email to [marta.daffara@pragmacongressi.it](marta.daffara@pragmacongressi.it) **before January 13, 2025**. There will be an administrative fee of 25 € deducted from each refund.
+
+## Invitation letters 
+
+Participants who need a **visa** to enter Italy may request an invitation letter by completing the form available at this link: [https://form.jotform.com/243261524683356](https://form.jotform.com/243261524683356). 
+
+It is the conference policy to only issue a letter of invitation to Speakers, Authors, Committee Members, and Attendees who have completed their registration and paid the conference fee.
+
+Refunds will be issued for cancellations due to visa rejections, even after January 13th.
 
 ---
 
