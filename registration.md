@@ -14,7 +14,7 @@
 
 All dates and times are intended [Anywhere on Earth](https://time.is/Anywhere_on_Earth).
 
-Registration fee includes: proceedings (electronic & ISBN), welcome cocktail January 28th at Pavia city hall, lunches, coffee breaks, walking tour of Pavia center, teach-in on January 27th.
+The registration fee includes: proceedings (electronic & ISBN), welcome cocktail January 28th at Pavia city hall, lunches, coffee breaks, walking tour of Pavia center, teach-in on January 27th.
 
 ## ✅ Registration procedure
 
