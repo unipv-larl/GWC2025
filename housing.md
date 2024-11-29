@@ -5,8 +5,8 @@ Below you will find a list of hotels in the town center. If you decide to reserv
 
 - [Hotel Excelsior](https://www.hotelexcelsiorpavia.com)
 - [Hotel Aurora](https://www.hotel-aurora.eu)
-- [Hotel Rosengarten](https://hotel-rosengarten-pavia.hotelmix.it)
 - [Hotel Moderno](http://www.hotelmoderno.it)
+- [UniHo Pavia Hostel](https://www.uniho.it)
 - Locanda della Stazione - reservation only by phone: +39038229321
 
 ## Apartments
