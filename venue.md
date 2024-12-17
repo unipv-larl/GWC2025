@@ -30,7 +30,7 @@ These buildings house numerous lecture halls, ranging from smaller ones to large
 
 <br>
 
-<img src="https://news.unipv.it/wp-content/uploads/2017/06/Aula-Scarpa.png" title="Figure 5 - Aula Volta">
+<img src="https://live.staticflickr.com/8608/16660036011_c1b204d26c_b.jpg" title="Figure 5 - Aula Volta">
 
 **Figure 5 - Aula Volta**
 
