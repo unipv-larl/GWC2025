@@ -30,7 +30,7 @@ These buildings house numerous lecture halls, ranging from smaller ones to large
 
 <br>
 
-<img src="https://inchiostro.unipv.it/wp-content/uploads/2018/03/aula-Volta-HD.jpg" alt="Università degli Studi di Pavia, Aula Volta" title="Figure 5 - Aula Volta">
+<img src="https://news.unipv.it/wp-content/uploads/2017/06/Aula-Scarpa.png" title="Figure 5 - Aula Volta">
 
 **Figure 5 - Aula Volta**
 
