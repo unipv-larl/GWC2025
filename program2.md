@@ -38,6 +38,8 @@
 
 **18:00**:🍸 Welcome cocktail	
 
+<br>
+
 # WEDNESDAY
 <br>
 
@@ -56,6 +58,8 @@
 **Afternoon**: Visit Pavia	
 
 **Evening**: Social dinner
+
+<br>
 
 # THURSDAY
 <br>
@@ -86,6 +90,8 @@
 
 **16:30**: GWA Meeting	
 
+<br>
+
 # FRIDAY
 <br>
 
@@ -105,4 +111,4 @@
 
 **13:00**: 🍱 Lunch	break		
 		
-Afternoon	Visit to the Certosa
+**Afternoon**: Visit to the Certosa
