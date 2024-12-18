@@ -19,6 +19,6 @@ If you prefer to print your poster locally, we recommend the following printing 
 
     Phone: 0382301603
   
-    Email: copyart2014@gmail.com
-  
+    Email: <a href="mailto:copyart2014@gmail.com" class="email-link">copyart2014@gmail.com</a>
+
     Please contact them directly to arrange your printing.
