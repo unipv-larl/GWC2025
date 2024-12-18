@@ -5,45 +5,44 @@
 
 ## Program in detail
 
-# TUESDAY
-<br>
+### MONDAY 27
 
-**9:20**: Welcome
+- **15:30-16:30**: Registration (Aula Volta, Palazzo Centrale)
 
-**9:40**: *Illustrating the Usage of Verbs in WordNet: the Class of Self-motion Verbs* - Ivelina Stoyanova and Svetlozara Leseva
+- **17:00-19:00**: Teach-in *From Language to Action: How LLMs are Shaping Modern Business Strategies* by NTT DATA (Collegio Borromeo)
 
-**10:10**: *Constraining constructions with WordNet: pros and cons for the semantic annotation of fillers in the Italian Constructicon* - Flavio Pisciotta, Ludovica Pannitto, Lucia Busso, Francesca Masini and Beatrice Bernasconi
+### TUESDAY 28
 
-**10:30**: ☕️ Coffee break
+- **9:20-9:40: Opening**
+- **9:40-10:30 Session 1**
+  - 9:40-10:10: *Illustrating the Usage of Verbs in WordNet: the Class of Self-motion Verbs* - Ivelina Stoyanova and Svetlozara Leseva
+  - 10:10-10:30: *Constraining constructions with WordNet: pros and cons for the semantic annotation of fillers in the Italian Constructicon* - Flavio Pisciotta, Ludovica Pannitto, Lucia Busso, Francesca Masini and Beatrice Bernasconi
 
-**11:00**: *Renovating the Verb Hierarchy of English Wordnet* -	John P. McCrae
+- **10:30: ☕️ Coffee break**
 
-**11:30**: *An Abstract Multilingual WordNet* -	Krasimir Angelov
+- **11:00-13:00: Session 2**
+  - 11:00-11:30: *Renovating the Verb Hierarchy of English Wordnet* - John P. McCrae
+  - 11:30-12:00: *An Abstract Multilingual WordNet* - Krasimir Angelov
+  - 12:00-12:30: *Misalignment of Semantic Relation Knowledge between WordNet and Human Intuition* - Zhihan Cao, Hiroaki Yamada, Simone Teufel and Takenobu Tokunaga
+  - 12:30-13:00: *Expanding and Enhancing Derivational and Morphosemantic Relations in Princeton WordNet* -	Ivelina Stoyanova, Verginica Barbu Mititelu, Svetlozara Leseva and Gianina Iordachioaia
 
-**12:00**: *Misalignment of Semantic Relation Knowledge between WordNet and Human Intuition* - Zhihan Cao, Hiroaki Yamada, Simone Teufel and Takenobu Tokunaga
+- **13:00: 🍱 Lunch break**
 
-**12:30**: *Expanding and Enhancing Derivational and Morphosemantic Relations in Princeton WordNet* -	Ivelina Stoyanova, Verginica Barbu Mititelu, Svetlozara Leseva and Gianina Iordachioaia
+- **14:30-15:30: Session 3**
+  - 14:30-15:00: *Wordnet and Word Ladders: Climbing the abstraction taxonomy with LLMs* - Giovanni Puccetti, Andrea Esuli and Marianna Bolognesi
+  - 15:00-15:30: *Improving the lexicographic accessibility of WN through LLMs* - Ágoston Tóth and Esra Abdelzaher
 
-**13:00**: 🍱 Lunch	break
-			
-**14:30**: *Wordnet and Word Ladders: Climbing the abstraction taxonomy with LLMs* - Giovanni Puccetti, Andrea Esuli and Marianna Bolognesi
+- **15:30: ☕️ Coffee break**
 
-**15:00**: *Improving the lexicographic accessibility of WN through LLMs* - Ágoston Tóth and Esra Abdelzaher
+- **16:00-17:00: Session 4**
+  - 16:00-16:30: *The Impact of Age and Gender on Sensory Imagination: Insights from the Contextualized Sensory (CSy) Dataset* - Simona Corciulo, Rossana Damiano, Viviana Patti and Mario Alessandro Bochicchio
+  - 16:30-17:00: *Remedying Gender Bias in Open English Wordnet* - John P. McCrae, Haotian Zhu, Fei Xia, Al Waskow and Kexin Gao
 
-**15:30**: ☕️ Coffee break
+- **18:00:🍸 Welcome cocktail**	(Palazzo Mezzabarba, Pavia City Hall)
 
-**16:00**: *The Impact of Age and Gender on Sensory Imagination: Insights from the Contextualized Sensory (CSy) Dataset* - Simona Corciulo, Rossana Damiano, Viviana Patti and Mario Alessandro Bochicchio
+### WEDNESDAY 29
 
-**16:30**: *Remedying Gender Bias in Open English Wordnet* - John P. McCrae, Haotian Zhu, Fei Xia, Al Waskow and Kexin Gao
-
-**18:00**:🍸 Welcome cocktail	
-
-<br>
-
-# WEDNESDAY
-<br>
-
-**9:30**: *Keynote Speaker* - Piek Vossen
+- **9:30: Keynote Speaker** - *30 years embracing and abandoning wordnets* - Piek Vossen
 
 **10:30**: ☕️ Coffee break	
 
@@ -61,7 +60,7 @@
 
 <br>
 
-# THURSDAY
+### THURSDAY 30
 <br>
 
 **9:30**: *Keynote Speaker* - Rada Mihalcea
@@ -92,7 +91,7 @@
 
 <br>
 
-# FRIDAY
+### FRIDAY 31
 <br>
 
 **9:30**: *Keynote Speaker* -	Marco Passarotti
