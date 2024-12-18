@@ -43,7 +43,7 @@
 # WEDNESDAY
 <br>
 
-**9:30**: *Keynote 1*	- Piek Vossen
+**9:30**: *Keynote Speaker* - Piek Vossen
 
 **10:30**: ☕️ Coffee break	
 
@@ -64,7 +64,7 @@
 # THURSDAY
 <br>
 
-**9:30**: *Keynote 2* - Rada Mihalcea
+**9:30**: *Keynote Speaker* - Rada Mihalcea
 
 **10:30**: ☕️ Coffee break	
 
@@ -95,7 +95,7 @@
 # FRIDAY
 <br>
 
-**9:30**: *Keynote 1* -	Marco Passarotti
+**9:30**: *Keynote Speaker* -	Marco Passarotti
 
 **10:30**: ☕️ Coffee break	
 
