@@ -23,7 +23,7 @@ The conference will feature the participation of three keynote speakers: **Rada 
 ### [Important Dates](dates.md)
 ### [Registration](registration.md)
 ### [Program](program.md)
-### [Posters](Posters.md)
+### [Posters](posters.md)
 ### [Keynote speakers](keynote.md)
 ### [Organization](organization.md)
 ### [Venue](venue.md)
