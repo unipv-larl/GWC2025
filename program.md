@@ -71,7 +71,7 @@
 **20.00: Social dinner** (📍 [Restaurant "Civico Uno"](https://maps.app.goo.gl/PEaoNd3kXLWmhdAQ6?g_st=com.google.maps.preview.copy))
 
 ### THURSDAY 30
-📍 📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
+📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
 
 - **9.30-10.30**: **Keynote Speaker**: **Rada Mihalcea** - *tba*
 
