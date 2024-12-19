@@ -7,9 +7,9 @@
 
 ### MONDAY 27
 
-- **15:30-16:30: Registration** (📍 Aula Volta, Palazzo Centrale)
+- **15:00-16:00: Registration** (📍 Aula Volta, Palazzo Centrale)
 
-- **17:00-19:00: Teach-in by NTT DATA** - *From Language to Action: How LLMs are Shaping Modern Business Strategies* (📍 Collegio Borromeo)
+- **16:30-19:00: Teach-in by NTT DATA** - *From Language to Action: How LLMs are Shaping Modern Business Strategies* (📍 Collegio Borromeo)
 
 ### TUESDAY 28 
 📍 Aula Volta, Palazzo Centrale
@@ -49,7 +49,7 @@
 
 - **10:30-11:00: ☕️ Coffee break**	
 
-- **11:00-13:00: Session 5**
+- **11:00-11:50: Session 5**
   - 11:00:11:30: **Yicheng Sun and Jie Wang** - *AI-WordNet for Controllable Construction of Cloze Questions*
   - 11:30-11:50: **Fahad Khan and John P. McCrae** - *SHACL4GW: SHACL Shapes for the Global Wordnet Association RDF Schema*
 
@@ -93,10 +93,10 @@
 
 - **10:30-11:00: ☕️ Coffee break**	
 
-- **11:00-13:00: Sessionn 8**
+- **11:00-13:00: Session 8**
   - 11:00-11:30: **Ahti Lohk and Heili Orav** - *An Experiment in CILI-Based Validation: The Case of the Estonian Wordnet*
   - 11:30-11:50: **Francis Bond** - *Adding Audio to Wordnets*
-  - 11:50-12:20: **Neslihan Cesur, Sabri İnce, Ali Hakkı Aydın, Ece Su Eren, Deniz Gücükçavuş, Murat Papaker, Kaan Bayar, Deniz Baran Aslan, Yelda Fırat and Olcay Taner Yıldız ** - *A Semi-Automated Approach to the Annotation of Argument Structures in Turkish Datasets*
+  - 11:50-12:20: **Neslihan Cesur, Sabri İnce, Ali Hakkı Aydın, Ece Su Eren, Deniz Gücükçavuş, Murat Papaker, Kaan Bayar, Deniz Baran Aslan, Yelda Fırat and Olcay Taner Yıldız** - *A Semi-Automated Approach to the Annotation of Argument Structures in Turkish Datasets*
   - 12:20-12:40: **Lucia Galiero, Federico Boschetti, Riccardo Del Gratta, Angelo Mario Del Grosso and Monica Monachini** - *Enhancing Lexical Resources: Synset Expansion and Cross-Linking Between ItalWordNet and MariTerm*
   - 12:40-13:00: **Shikhar Kr. Sarma, Ratul Deka, Bhatima Baro, Vaskar Deka, Umesh Deka, Mirzanur Rahman and Sarmah Satyajit** - *Challenges and Solutions in Developing Low-Resource Wordnets: Insights from Assamese and Bodo*
 
