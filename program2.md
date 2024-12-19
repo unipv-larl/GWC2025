@@ -7,12 +7,12 @@
 
 ### MONDAY 27
 
-- **15.00-16.00: Registration** (📍 Aula Volta, Palazzo Centrale)
+- **15.00-16.00: Registration** (📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building)
 
-- **16.30-19.00: Teach-in by NTT DATA** - *From Language to Action: How LLMs are Shaping Modern Business Strategies* (📍 Collegio Borromeo)
+- **16.30-19.00: Teach-in by NTT DATA** - *From Language to Action: How LLMs are Shaping Modern Business Strategies* (📍 [Collegio Borromeo](https://maps.google.com?q=Collegio%20Borromeo,%20Piazza%20del%20Collegio%20Borromeo,%209,%2027100%20Pavia%20PV&ftid=0x47872640a51fd051:0x1f667bf3d67b1269&entry=gps&lucs=,94246480,94242598,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94233079,94203019,47084304,94208458,94208447&g_st=com.google.maps.preview.copy))
 
 ### TUESDAY 28 
-📍 Aula Volta, Palazzo Centrale
+📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
 
 - **8.30-9.20: Registration** 
 - **9.20-9.40: Opening**
@@ -40,10 +40,10 @@
   - 16.00-16.30: **Simona Corciulo, Rossana Damiano, Viviana Patti and Mario Alessandro Bochicchio** - *The Impact of Age and Gender on Sensory Imagination: Insights from the Contextualized Sensory (CSy) Dataset*
   - 16.30-17.00: **John P. McCrae, Haotian Zhu, Fei Xia, Al Waskow and Kexin Gao** - *Remedying Gender Bias in Open English Wordnet*
 
-- **18.00:🍸 Welcome cocktail**	(📍 Palazzo Mezzabarba, Pavia City Hall)
+- **18.00:🍸 Welcome cocktail**	(📍 [Palazzo Mezzabarba](https://maps.app.goo.gl/2EHCAgLPzhbU89fn6?g_st=com.google.maps.preview.copy), Pavia City Hall)
 
 ### WEDNESDAY 29
-📍 Aula Volta, Palazzo Centrale
+📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
 
 - **9.30-10.30: Keynote Speaker**: **Piek Vossen** - *30 years embracing and abandoning wordnets* 
 
@@ -59,10 +59,10 @@
 		
 **Afternoon: Guided tour of Pavia**	
 
-**Evening: Social dinner** (📍 Restaurant "Civico Uno")
+**20.00: Social dinner** (📍 [Restaurant "Civico Uno"](https://maps.app.goo.gl/PEaoNd3kXLWmhdAQ6?g_st=com.google.maps.preview.copy))
 
 ### THURSDAY 30
-📍 Aula Volta, Palazzo Centrale
+📍 📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
 
 - **9.30-10.30**: **Keynote Speaker**: **Rada Mihalcea** - *tba*
 
@@ -87,7 +87,7 @@
 - **16.30: GWA Meeting**	
 
 ### FRIDAY 31
-📍 Collegio Ghislieri, Aula Goldoniana
+📍 [Collegio Ghislieri](https://maps.app.goo.gl/9mVLgXbCFfK5Q52S6?g_st=com.google.maps.preview.copy), Aula Goldoniana
 
 - **9.30-10.30**: **Keynote Speaker**: **Marco Passarotti** - *WordNet in the Net. Making It All Interact*
 
