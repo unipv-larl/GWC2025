@@ -66,7 +66,7 @@
 
 - **13.00-14.30: 🍱 Lunch break**
 		
-**Afternoon: Guided tour of Pavia**	
+**14.30: Guided tour of Pavia**	
 
 **20.00: Social dinner** (📍 [Restaurant "Civico Uno"](https://maps.app.goo.gl/PEaoNd3kXLWmhdAQ6?g_st=com.google.maps.preview.copy))
 
@@ -111,4 +111,4 @@
 
 - **13.00-14.30: 🍱 Lunch break**	
 		
-- **Afternoon: Trip to Certosa di Pavia**
+- **14.30: Trip to Certosa di Pavia**
