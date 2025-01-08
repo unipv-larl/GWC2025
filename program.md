@@ -73,7 +73,7 @@
 ### THURSDAY 30
 📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
 
-- **9.30-10.30**: **Keynote Speaker**: **Rada Mihalcea** - *tba*
+- **9.30-10.30**: **Keynote Speaker**: **Rada Mihalcea** - *Towards a Cultural WordNet: From Words to Meanings to Cross-Cultural Nuances*
 
 - **10.30-11.00: ☕️ Coffee break**	
 
