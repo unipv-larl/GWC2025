@@ -54,6 +54,7 @@
   - 11.30-11.50: **Fahad Khan and John P. McCrae** - *SHACL4GW: SHACL Shapes for the Global Wordnet Association RDF Schema*
 
 - **11.50-13.00: 📰 Poster session**
+📍 Aula Scarpa, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
   - **Joanna Ut-Seong Sio, Luis Morgado Da Costa, Francis Bond and Kamila Liedermannova** - _Can you hear me now? Towards talking Wordnets: A Cantonese Case Study_
   - **Ivan Lacić and Ludovica Pannitto** - _Deriving semantic classes of Italian adjectives via word embeddings: a large-scale investigation_
   - **Eleonora Ghizzota, Pierpaolo Basile, Claudia D'Amato and Nicola Fanizzi** - _Enhancing Linguistic Resources for Diachronic Analysis via Linked Data_
