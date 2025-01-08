@@ -9,12 +9,20 @@ She serves or has served on the editorial boards of the _Journals of Computation
 
 She is an ACM Fellow, a AAAI Fellow, and served as ACL President (2018-2022 Vice/Past). She is the recipient of a Sarah Goddard Power award (2019) for her contributions to diversity in science, an honorary citizen of her hometown of Cluj-Napoca, Romania (2013), and the recipient of a Presidential Early Career Award for Scientists and Engineers awarded by President Obama (2009).
 
+### Title and abstract
+#### Towards a Cultural WordNet: From Words to Meanings to Cross-Cultural Nuances
+Language is more than just words—it is also a reflection of the individuals, cultures, and societies that shape it. While computational linguistics has traditionally focused on words and their relations, the emerging field of computational sociolinguistics has demonstrated that we can effectively leverage the interplay between language and people. In this talk, I will explore the idea of a Cultural WordNet—-a resource that captures the diversity of behaviors, beliefs, and linguistic expressions across different cultural groups. I will discuss our progress toward that, including: (1) developing cross-cultural language models that identify words used significantly differently across cultures, along with their cultural nuances; and (2) creating cultural language-vision representations that map concepts to culturally-specific visual representations.
+
 ## Marco Passarotti - Università Cattolica del Sacro Cuore, Milan
 Marco Passarotti is Full Professor of Computational Linguistics at Università Cattolica del Sacro Cuore (Milan, Italy), where he is Director of the CIRCSE Research Centre and Coordinator of the MA in Linguistic Computing. 
 
 His main research interests deal with building, using and disseminating linguistic resources and natural language processing tools for Latin. 
 
 A former pupil of one of the pioneers of humanities computing, father Roberto Busa SJ, since 2006 he has headed the Index Thomisticus Treebank project. Between 2018 and 2023, he was the principal investigator of the LiLa project, an ERC-Consolidator Grant that built a Linked Data Knowledge Base of interoperable linguistic resources for Latin. He authored around 200 publications.
+
+### Title and abstract
+#### WordNet in the Net. Making It All Interact
+The talk will discuss the topic of interoperability of a WordNet with other (both lexical and textual) resources on the Web. Particularly, the talk will detail the publication as Linked Open Data (LOD) of a manually checked version of the Latin WordNet. First, the LiLa Knowledge Base of interoperable resources for Latin will be introduced, as the ecosystem where the LOD version of the Latin WordNet is published (https://lila-erc.eu). Then, the process of modeling the (meta)data of the WordNet will be described, introducing the Ontolex-lemon model for lexical resources. Finally, the talk will present some practical uses of a few online services offered by LiLa to query the resources interlinked therein, particularly focussing on data from the Latin WordNet. To conclude, the issue about the future of WordNet in the era of Large Language Models will be tackled.
 
 ## Piek Vossen - Vrije Universiteit Amsterdam
 Prof. Dr. P.Th.J.M. (Piek) Vossen is full Professor of Computational Lexicology at the VU University Amsterdam, Head of the Computational Lexicology &amp; Terminology Lab (CLTL) and co-founder of the Global WordNet Assocation in 2000 ( GWA ). 
@@ -32,3 +40,16 @@ His research interests are WordNets, Computational Lexicon, Ontologies, Computat
 the relation between lexicons and ontologies, from a theoretical point of view as well as from their usage in computer-applications in which meaning and interpretation play a role. He sees the lexicon as a fundamental resource to anchor meaning and
 interpretation in useful computer behaviour. Computer behaviour can make use of communicative models and insights from communication science. The organization of the lexicon and the knowledge stored in it need to take that usage as a starting point. He combines linguistics and computer science to model understanding of
 natural language texts by computers.
+
+### Title and abstract
+#### 30 years embracing and abandoning wordnets
+
+Preliminary summary:
+1995 - 2000: building wordnets
+2000 - 2005 building retrieval engines that use wordnets
+2005 - 2010 building wordnets
+2009 - 2016 building reading machines that use wordnets
+2014 - 2025: building reference machines that use wordnets
+2016 - 2025: building conversational systems that hardly use wordnets but use LLMs
+2020 - 2025: building LLMs that supersede wordnets
+2020 - 2025: building grounded wordnets, framenets & reference-nets
