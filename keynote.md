@@ -44,12 +44,11 @@ natural language texts by computers.
 ### Title and abstract
 #### 30 years embracing and abandoning wordnets
 
-Preliminary summary:
-1995 - 2000: building wordnets
-2000 - 2005 building retrieval engines that use wordnets
-2005 - 2010 building wordnets
-2009 - 2016 building reading machines that use wordnets
-2014 - 2025: building reference machines that use wordnets
-2016 - 2025: building conversational systems that hardly use wordnets but use LLMs
-2020 - 2025: building LLMs that supersede wordnets
-2020 - 2025: building grounded wordnets, framenets & reference-nets
+- 1995 - 2000: building wordnets
+- 2000 - 2005 building retrieval engines that use wordnets
+- 2005 - 2010 building wordnets
+- 2009 - 2016 building reading machines that use wordnets
+- 2014 - 2025: building reference machines that use wordnets
+- 2016 - 2025: building conversational systems that hardly use wordnets but use LLMs
+- 2020 - 2025: building LLMs that supersede wordnets
+- 2020 - 2025: building grounded wordnets, framenets & reference-nets
