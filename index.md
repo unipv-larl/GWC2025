@@ -16,6 +16,13 @@ The GWC2025 conference will be held under the auspices of the Global WordNet Ass
 The conference will feature the participation of three keynote speakers: **Rada Mihalcea** (Unversity of Michigan), **Marco Passarotti** (Università Cattolica del Sacro Cuore Milano), and **Piek Vossen** (Vrije Universiteit Amsterdam).
 
 --- 
+### Join us for the social program of GWC2025! 
+
+The program, which is included in the conference fee, includes two guided tours to Pavia's city center (Wednesday afternoon) and the beautiful [Certosa di Pavia](https://en.wikipedia.org/wiki/Certosa_di_Pavia) (Friday afternoon). You can find all the information and the registration form at [this link](https://form.jotform.com/250073124594352). 
+
+The deadline to sign up is **Wednesday, January 15**.
+
+---
 
 ## Menu
 
