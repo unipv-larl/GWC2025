@@ -57,5 +57,8 @@ For updates you can also follow our social profiles:
 
 <img src="loghiGWC/loghibluuniti2.png">
 
+<br>
+
+This project is funded through the European Union Funding Program – NextGenerationEU – Missione 4 Istruzione e ricerca - componente 2, investimento 1.1” Fondo per il Programma Nazionale della Ricerca (PNR) e Progetti di Ricerca di Rilevante Interesse Nazionale (PRIN)” progetto PRIN_2022 2022YAPFNJ "Linked WordNet for Indo-European Languages" CUP F53D2300490 0001 - Dipartimento Studi Umanistici (Università di Pavia)
 
 
