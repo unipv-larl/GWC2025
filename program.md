@@ -18,7 +18,7 @@
 - **9.20-9.40: Opening**
 - **9.40-10.30 Session 1** - Chair: *Claudia Roberta Combei*
   - 9.40-10.10: **Ivelina Stoyanova and Svetlozara Leseva** - *Illustrating the Usage of Verbs in WordNet: the Class of Self-motion Verbs*
-  - 10.10-10.30: **Flavio Pisciotta, Ludovica Pannitto, Lucia Busso, Francesca Masini and Beatrice Bernasconi** - *Constraining constructions with WordNet: pros and cons for the semantic annotation of fillers in the Italian Constructicon*
+  - 10.10-10.30: **Flavio Pisciotta, Ludovica Pannitto, Lucia Busso, Beatrice Bernasconi and Francesca Masini** - *Constraining constructions with WordNet: pros and cons for the semantic annotation of fillers in the Italian Constructicon*
 
 - **10.30-11.00: ☕️ Coffee break**
 
