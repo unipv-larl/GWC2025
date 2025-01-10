@@ -9,7 +9,7 @@
 - _Analysis of Anachronistic Lemmas and Semantic Fields in Ancient Greek WordNet_ - Gianluca Scatigno
 - _Automatic Detection of Coptic Text Reuse: Applying Coptic Wordnet to Intertextuality Studies in Selected Coptic Monastic Writings_ - So Miyagawa, Luis Morgado da Costa, Laura Slaughter and Heike Behlmer
 - _Challenges and Solutions in Developing Low-Resource Wordnets: Insights from Assamese and Bodo_	- Shikhar Kr. Sarma, Ratul Deka, Bhatima Baro, Vaskar Deka, Umesh Deka, Mirzanur Rahman and Sarmah Satyajit
-- _Constraining constructions with WordNet: pros and cons for the semantic annotation of fillers in the Italian Constructicon_ - Flavio Pisciotta, Ludovica Pannitto, Lucia Busso, Francesca Masini and Beatrice Bernasconi
+- _Constraining constructions with WordNet: pros and cons for the semantic annotation of fillers in the Italian Constructicon_ - Flavio Pisciotta, Ludovica Pannitto, Lucia Busso, Beatrice Bernasconi and Francesca Masini
 - _Enhancing Lexical Resources: Synset Expansion and Cross-Linking Between ItalWordNet and MariTerm_ - Lucia Galiero, Federico Boschetti, Riccardo Del Gratta, Angelo Mario Del Grosso and Monica Monachini
 - _Expanding and Enhancing Derivational and Morphosemantic Relations in Princeton WordNet_ - Ivelina Stoyanova, Verginica Barbu Mititelu, Svetlozara Leseva and Gianina Iordachioaia
 - _Exploring Latin WordNet synset annotation with LLMs_ - Daniela Santoro, Beatrice Marchesi, Silvia Zampetta, Marco Del Tredici, Erica Biagetti, Eleonora Litta, Claudia Roberta Combei, Stefano Rocchi, Tullio Facchinetti, Riccardo Ginevra and Chiara Zanchi
