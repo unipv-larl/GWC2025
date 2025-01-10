@@ -30,7 +30,7 @@
 
 - **13.00-14.30: 🍱 Lunch break**
 
-- **14.30-15.30: Session 3** - *Svetlozara Leseva*
+- **14.30-15.30: Session 3** - Chair: *Svetlozara Leseva*
   - 14.30-15.00: **Giovanni Puccetti, Andrea Esuli and Marianna Bolognesi** - *Wordnet and Word Ladders: Climbing the abstraction taxonomy with LLMs*
   - 15.00-15.30: **Ágoston Tóth and Esra Abdelzaher** - *Improving the lexicographic accessibility of WN through LLMs*
 
