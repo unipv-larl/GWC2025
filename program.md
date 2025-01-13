@@ -37,7 +37,7 @@
 - **15.30-16.00: ☕️ Coffee break**
 
 - **16.00-17.00: Session 4** - Chair: *Erica Biagetti*
-  - 16.00-16.30: **Simona Corciulo, Rossana Damiano, Viviana Patti and Mario Alessandro Bochicchio** - *The Impact of Age and Gender on Sensory Imagination: Insights from the Contextualized Sensory (CSy) Dataset*
+  - 16.00-16.30: **Simona Corciulo, Rossana Damiano, Viviana Patti and Mario Alessandro Bochicchio** - *The Impact of Age and Gender on Sensory Imagery: Insights from the IMAVIC Dataset*
   - 16.30-17.00: **John P. McCrae, Haotian Zhu, Fei Xia, Al Waskow and Kexin Gao** - *Remedying Gender Bias in Open English Wordnet*
 
 - **18.00:🍸 Welcome cocktail**	(📍 [Palazzo Mezzabarba](https://maps.app.goo.gl/2EHCAgLPzhbU89fn6?g_st=com.google.maps.preview.copy), Pavia City Hall)
