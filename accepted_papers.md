@@ -22,7 +22,7 @@
 - _Renovating the Verb Hierarchy of English Wordnet_ - John P. McCrae
 - _SHACL4GW: SHACL Shapes for the Global Wordnet Association RDF Schema_ - Fahad Khan and John P. McCrae
 - _Some Updates on the Development of an Historical Language Wordnet_ - Fahad Khan, Daniel Prado Aranda, Francesca Romana Cammisa, Michele Cavallaro, Maria Francesca Carmela Giusy Germanà, Federica Misino, Chiara Tenti, Javier E. Díaz-Vera, Francisco Javier Minaya Gómez and Francesca Frontini
-- _The Impact of Age and Gender on Sensory Imagination: Insights from the Contextualized Sensory (CSy) Dataset_ - Simona Corciulo, Rossana Damiano, Viviana Patti and Mario Alessandro Bochicchio
+- _The Impact of Age and Gender on Sensory Imagery: Insights from the IMAVIC Dataset_ - Simona Corciulo, Rossana Damiano, Viviana Patti and Mario Alessandro Bochicchio
 - _Using digital resources to study semantics and word formation in a historical language:  FEAR and TREMOR in the Latin WordNet and Word Formation Latin_ - Giorgio Carboni, Riccardo Ginevra and Litta Modignani Picozzi Eleonora Maria Gabriella
 - _Word Sense Disambiguation with Large Language Models: Casing Bulgarian_ - Nikolay Paev, Kiril Simov and Petya Osenova
 - _Wordnet and Word Ladders: Climbing the abstraction taxonomy with LLMs_ - Giovanni Puccetti, Andrea Esuli and Marianna Bolognesi
