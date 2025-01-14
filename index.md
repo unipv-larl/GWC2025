@@ -15,6 +15,15 @@ The GWC2025 conference will be held under the auspices of the Global WordNet Ass
 
 The conference will feature the participation of three keynote speakers: **Rada Mihalcea** (Unversity of Michigan), **Marco Passarotti** (Università Cattolica del Sacro Cuore Milano), and **Piek Vossen** (Vrije Universiteit Amsterdam).
 
+---
+
+### Pre-conference teach-in by NTT DATA 
+📍 [Collegio Borromeo](https://maps.google.com?q=Collegio%20Borromeo,%20Piazza%20del%20Collegio%20Borromeo,%209,%2027100%20Pavia%20PV&ftid=0x47872640a51fd051:0x1f667bf3d67b1269&entry=gps&lucs=,94246480,94242598,94224825,94227247,94227248,47071704,47069508,94218641,94228354,94233079,94203019,47084304,94208458,94208447&g_st=com.google.maps.preview.copy)
+
+**Angela Caiazza (NTT DATA Italia)** - *From Language to Action: How LLMs are Shaping Modern Business Strategies* 
+
+To attend the teach-in, **reservations are needed**. [Register here](https://www.eventbrite.it/e/biglietti-global-wordnet-conference-gwc2025-1116337227699)
+
 --- 
 ### Join us for the social program of GWC2025! 
 
