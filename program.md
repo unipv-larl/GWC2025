@@ -53,7 +53,7 @@ Chair: *German Rigau*
 - **10.30-11.00: ☕️ Coffee break**	
 
 - **11.00-11.50: Session 5** - Chair: *Luca Brigada Villa*
-  - 11.00:11.30: **Yicheng Sun and Jie Wang** - *AI-WordNet for Controllable Construction of Cloze Questions*
+  - 11.00:11.30: **Yicheng Sun and Jie Wang** - [*Expanding WordNet Based on Glosses: Methodology and Applications*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_6.pdf)
   - 11.30-11.50: **Fahad Khan and John P. McCrae** - [*SHACL4GW: SHACL Shapes for the Global Wordnet Association RDF Schema*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_9.pdf)
 
 - **11.50-13.00: 📰 Poster session**
