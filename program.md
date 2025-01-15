@@ -64,7 +64,7 @@ Chair: *German Rigau*
   - **Alžběta Kučerová and Johann-Mattis List** - [_Everybody Likes to Sleep: A Computer-Assisted Comparison of Object Naming Data from 30 Languages_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_24.pdf)
   - **Ikkyu Nishimura, Yohei Murakami and Mondheera Pituxcoosuvarn** - [_Extracting Conceptual Differences between Translation Pairs using Multilingual-WordNet_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_7.pdf)
   - **Elīza Gulbe, Agute Klints, Gunta Nešpore-Bērzkalne, Laura Rituma, Madara Stāde, Ilze Lokmane and Pēteris Paikens** - [_Extracting WordNet links from dictionary glosses - Latvian Wordnet example_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_19.pdf)
-  - **Esra Abdelzaher and Bacem Essam** - _Kinship Terms: Intercultural Linguistic Markers of Teknonymy_
+  - **Esra Abdelzaher and Bacem Essam** - [_Kinship Terms: Intercultural Linguistic Markers of Teknonymy_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_25.pdf)
   - **Johann Bergh, Jörg Waitelonis and Melanie Siegel** - [_Leveraging LLMs for Constructing WordNets Automatically as Bilingual Resources_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_15.pdf)
   - **Shikhar Kr. Sarma, Kuwali Talukdar, Kishore Kashyap, Ratul Deka and Bhatima Baro** - _Wordnet Enhanced Neural Machine Translation for Assamese-Bodo Low Resource Language Pair_ 
 
