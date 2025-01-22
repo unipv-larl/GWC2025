@@ -41,7 +41,7 @@ To attend the teach-in, **reservations are needed**. [Register here](https://www
   - 16.00-16.30: **Simona Corciulo, Rossana Damiano, Viviana Patti and Mario Alessandro Bochicchio** - [*The Impact of Age and Gender on Sensory Imagery: Insights from the IMAVIC Dataset*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_16.pdf)
   - 16.30-17.00: **John P. McCrae, Haotian Zhu, Fei Xia, Al Waskow and Kexin Gao** - [*Remedying Gender Bias in Open English Wordnet*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_17.pdf)
 
-- **18.00:🍸 Welcome cocktail**	(📍 [Palazzo Mezzabarba](https://maps.app.goo.gl/2EHCAgLPzhbU89fn6?g_st=com.google.maps.preview.copy), Pavia City Hall)
+- **18.30:🍸 Welcome cocktail**	(📍 [Palazzo Mezzabarba](https://maps.app.goo.gl/2EHCAgLPzhbU89fn6?g_st=com.google.maps.preview.copy), Pavia City Hall)
 
 ### WEDNESDAY 29
 📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
