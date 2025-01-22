@@ -55,7 +55,7 @@ Chair: *German Rigau*
   - 11.00:11.30: **Yicheng Sun and Jie Wang** - [*Expanding WordNet Based on Glosses: Methodology and Applications*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_6.pdf)
   - 11.30-11.50: **Fahad Khan and John P. McCrae** - [*SHACL4GW: SHACL Shapes for the Global Wordnet Association RDF Schema*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_9.pdf)
 
-- **11.50-13.00: 📰 Poster session**
+- **12.00-13.15: 📰 Poster session**
 📍 Aula Scarpa, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
   - **Joanna Ut-Seong Sio, Luis Morgado Da Costa, Francis Bond and Kamila Liedermannova** - [_Can you hear me now? Towards talking Wordnets: A Cantonese Case Study_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_37.pdf)
   - **Ivan Lacić and Ludovica Pannitto** - [_Deriving semantic classes of Italian adjectives via word embeddings: a large-scale investigation_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_12.pdf)
@@ -67,7 +67,7 @@ Chair: *German Rigau*
   - **Johann Bergh, Jörg Waitelonis and Melanie Siegel** - [_Leveraging LLMs for Constructing WordNets Automatically as Bilingual Resources_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_15.pdf)
   - **Shikhar Kr. Sarma, Kuwali Talukdar, Kishore Kashyap, Ratul Deka and Bhatima Baro** - [_Wordnet Enhanced Neural Machine Translation for Assamese-Bodo Low Resource Language Pair_](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_34.pdf)
 
-- **13.00-14.30: 🍱 Lunch break**
+- **13.15-14.30: 🍱 Lunch break**
 		
 **14.30: Guided tour of Pavia**	
 
