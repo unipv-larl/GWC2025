@@ -103,18 +103,20 @@ Chair: *Francis Bond*
 📍 [Collegio Ghislieri](https://maps.app.goo.gl/9mVLgXbCFfK5Q52S6?g_st=com.google.maps.preview.copy), Aula Goldoniana
 
 Chair: *Chiara Zanchi*
-- **9.15-9.30**: **Opening and welcome address**
-- **9.30-10.30**: **Keynote Speaker**: **Marco Passarotti** - *WordNet in the Net. Making It All Interact*
+- **9.30-9.45**: **Opening and welcome address**
+- **9.45-10.45**: **Keynote Speaker**: **Marco Passarotti** - *WordNet in the Net. Making It All Interact*
 
-- **10.30-11.00: ☕️ Coffee break**	
+- **10.45-11.15: ☕️ Coffee break**	
 
-- **11.00-13.00: Session 8** - Chair: *John McCrae*
+- **11.15-13.15: Session 8** - Chair: *John McCrae*
   - 11.00-11.30: **Ahti Lohk and Heili Orav** - [*An Experiment in CILI-Based Validation: The Case of the Estonian Wordnet*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_21.pdf)
   - 11.30-11.50: **Francis Bond** - [*Adding Audio to Wordnets*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_38.pdf)
   - 11.50-12.20: **Neslihan Cesur, Sabri İnce, Ali Hakkı Aydın, Ece Su Eren, Deniz Gücükçavuş, Murat Papaker, Kaan Bayar, Deniz Baran Aslan, Yelda Fırat and Olcay Taner Yıldız** - [*A Semi-Automated Approach to the Annotation of Argument Structures in Turkish Datasets*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_30.pdf)
   - 12.20-12.40: **Lucia Galiero, Federico Boschetti, Riccardo Del Gratta, Angelo Mario Del Grosso and Monica Monachini** - [*Enhancing Lexical Resources: Synset Expansion and Cross-Linking Between ItalWordNet and MariTerm*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_11.pdf)
   - 12.40-13.00: **Shikhar Kr. Sarma, Ratul Deka, Bhatima Baro, Vaskar Deka, Umesh Deka, Mirzanur Rahman and Sarmah Satyajit** - [*Challenges and Solutions in Developing Low-Resource Wordnets: Insights from Assamese and Bodo*[(https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_41.pdf)
 
-- **13.00-14.30: 🍱 Lunch break**	
+- **13.15-13.30: Closing remarks**
+
+- **13.30-14.30: 🍱 Lunch break**	
 		
 - **14.30: Trip to Certosa di Pavia**
