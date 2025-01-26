@@ -113,7 +113,7 @@ Chair: *Chiara Zanchi*
   - 11.30-11.50: **Francis Bond** - [*Adding Audio to Wordnets*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_38.pdf)
   - 11.50-12.20: **Neslihan Cesur, Sabri İnce, Ali Hakkı Aydın, Ece Su Eren, Deniz Gücükçavuş, Murat Papaker, Kaan Bayar, Deniz Baran Aslan, Yelda Fırat and Olcay Taner Yıldız** - [*A Semi-Automated Approach to the Annotation of Argument Structures in Turkish Datasets*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_30.pdf)
   - 12.20-12.40: **Lucia Galiero, Federico Boschetti, Riccardo Del Gratta, Angelo Mario Del Grosso and Monica Monachini** - [*Enhancing Lexical Resources: Synset Expansion and Cross-Linking Between ItalWordNet and MariTerm*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_11.pdf)
-  - 12.40-13.00: **Shikhar Kr. Sarma, Ratul Deka, Bhatima Baro, Vaskar Deka, Umesh Deka, Mirzanur Rahman and Sarmah Satyajit** - [*Challenges and Solutions in Developing Low-Resource Wordnets: Insights from Assamese and Bodo*[(https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_41.pdf)
+  - 12.40-13.00: **Shikhar Kr. Sarma, Ratul Deka, Bhatima Baro, Vaskar Deka, Umesh Deka, Mirzanur Rahman and Sarmah Satyajit** - [*Challenges and Solutions in Developing Low-Resource Wordnets: Insights from Assamese and Bodo*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_41.pdf)
 
 - **13.15-13.30: Closing remarks**
 
