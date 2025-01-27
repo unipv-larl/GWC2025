@@ -16,7 +16,7 @@ To attend the teach-in, **reservations are needed**. [Register here](https://www
 📍 Aula Volta, [Palazzo Centrale](https://maps.app.goo.gl/uDcBzWps2nrdF3qP8?g_st=com.google.maps.preview.copy) - Main University Building
 
 - **8.30-9.20: Registration** 
-- **9.20-9.40: Opening and welcome address (Rector: _Francesco Svelto_, Head of the Departement of Humanities: _Luca Vanzago_, Rector’s Delegate for National Research and Evaluation: _Elisa Roma_)**
+- **9.20-9.40: Opening and welcome address** (Rector: _Francesco Svelto_, Head of the Departement of Humanities: _Luca Vanzago_, Rector’s Delegate for National Research and Evaluation: _Elisa Roma_)
 - **9.40-10.30 Session 1** - Chair: *Claudia Roberta Combei*
   - 9.40-10.10: **Ivelina Stoyanova and Svetlozara Leseva** - [*Illustrating the Usage of Verbs in WordNet: the Class of Self-motion Verbs*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_22.pdf)
   - 10.10-10.30: **Flavio Pisciotta, Ludovica Pannitto, Lucia Busso, Beatrice Bernasconi and Francesca Masini** - [*Constraining constructions with WordNet: pros and cons for the semantic annotation of fillers in the Italian Constructicon*](https://github.com/unipv-larl/GWC2025/releases/download/papers/GWC2025_paper_33.pdf)
